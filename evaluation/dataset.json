@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "prompt": "Build CRM with login contacts dashboard payments"
+  },
+  {
+    "id": 2,
+    "prompt": "Hospital management system with doctors patients appointments"
+  },
+  {
+    "id": 3,
+    "prompt": "Ecommerce platform with products cart checkout"
+  },
+  {
+    "id": 4,
+    "prompt": "Learning management system with students courses exams"
+  },
+  {
+    "id": 5,
+    "prompt": "Inventory management system"
+  },
+  {
+    "id": 6,
+    "prompt": "Build something useful"
+  },
+  {
+    "id": 7,
+    "prompt": "No login but role based access"
+  },
+  {
+    "id": 8,
+    "prompt": "Admin only and everyone can edit users"
+  },
+  {
+    "id": 9,
+    "prompt": "Payment system without users"
+  },
+  {
+    "id": 10,
+    "prompt": "Create app for everyone"
+  }
+]
