@@ -64,7 +64,25 @@ Execution Validator
      ▼
 Working Application
 ```
+## Screenshots
 
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### Compiler Pipeline
+![Compiler Pipeline](screenshots/compiler-pipeline.png)
+
+### Application Schema
+![Application Schema](screenshots/application-schema.png)
+
+### Generated Runtime
+![Generated Runtime](screenshots/generated-runtime.png)
+
+### Evaluation Dashboard
+![Evaluation Dashboard](screenshots/evaluation-dashboard.png)
+
+### Evaluation Results
+![Evaluation Results](screenshots/evaluation-results.png)
 ---
 
 # Multi-Stage Compiler Pipeline
