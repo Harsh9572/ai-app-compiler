@@ -29,7 +29,7 @@ Unlike single-prompt generators, this system follows a compiler-style architectu
 
 # Live Demo
 
-**Demo URL:** Add Streamlit Deployment URL Here
+**Demo URL:** https://ai-app-compiler-768uoqseziksigjvmqpocs.streamlit.app/
 
 **GitHub Repository:** https://github.com/Harsh9572/ai-app-compiler
 
